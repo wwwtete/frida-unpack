@@ -44,7 +44,7 @@ ps：查看OpenMemory的导出名称，可以将手机中的libart.so（存放�
 ## 0x5 参考链接
 
 - [Android Hook工具之Frida 安装配置教程](https://www.jianshu.com/p/7be526b77bd2)
-- [Android基于OpenMemory的脱壳]([https://mabin004.github.io/2018/08/22/Android%E5%9F%BA%E4%BA%8EOpenMemory%E7%9A%84%E8%84%B1%E5%A3%B3/](https://mabin004.github.io/2018/08/22/Android基于OpenMemory的脱壳/))
+- [Android基于OpenMemory的脱壳](https://mabin004.github.io/2018/08/22/Android基于OpenMemory的脱壳/)
 - [基于Frida框架打造Art模式下的脱壳工具（OpenMemory）的原理分析](https://blog.csdn.net/QQ1084283172/article/details/80956614)
 
 ## 0x06 python脚本支持
